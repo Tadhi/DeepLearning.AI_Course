@@ -1,1 +1,1 @@
-# DeepLearning.AI_Course
+# DeepLearning.AI_Specialization
