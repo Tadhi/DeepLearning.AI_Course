@@ -18,3 +18,4 @@
 
 
 ###  Neural Networks and Deep Learning Course: 
+Week 2: 
