@@ -33,3 +33,21 @@
 * [Week 2](https://github.com/Tadhi/DeepLearning.AI_Specialization/tree/main/C2%20-%20Improving%20Deep%20Neural%20Network%20/Week2#)
 * [Week 3](https://github.com/Tadhi/DeepLearning.AI_Specialization/tree/main/C2%20-%20Improving%20Deep%20Neural%20Network%20/Week3#)
 
+
+## Structuring Machine Learning Projects:
+* [Week 1](https://github.com/Tadhi/DeepLearning.AI_Specialization/tree/main/C3%20-%20Structuring%20Machine%20Learning%20Projects/Week1#)
+* [Week 2](https://github.com/Tadhi/DeepLearning.AI_Specialization/tree/main/C3%20-%20Structuring%20Machine%20Learning%20Projects/Week2#)
+
+## Convolutional Neural Networks:
+* [Week 1](https://github.com/Tadhi/DeepLearning.AI_Specialization/tree/main/C4%20-%20Convolutional%20Neural%20Networks%20/Week1#)
+* [Week 2](https://github.com/Tadhi/DeepLearning.AI_Specialization/tree/main/C4%20-%20Convolutional%20Neural%20Networks%20/Week2#)
+* [Week 3](https://github.com/Tadhi/DeepLearning.AI_Specialization/tree/main/C4%20-%20Convolutional%20Neural%20Networks%20/Week3#)
+* [Week 3](https://github.com/Tadhi/DeepLearning.AI_Specialization/tree/main/C4%20-%20Convolutional%20Neural%20Networks%20/Week4#)
+
+
+
+##Sequence Models:
+* [Week 1](https://github.com/Tadhi/DeepLearning.AI_Specialization/tree/main/%20C5%20-%20Sequence%20Models%20/Week1#)
+* [Week 2](https://github.com/Tadhi/DeepLearning.AI_Specialization/tree/main/%20C5%20-%20Sequence%20Models%20/Week2#)
+* [Week 3](https://github.com/Tadhi/DeepLearning.AI_Specialization/tree/main/%20C5%20-%20Sequence%20Models%20/Week3#)
+* [Week 4](https://github.com/Tadhi/DeepLearning.AI_Specialization/tree/main/%20C5%20-%20Sequence%20Models%20/Week4#)
