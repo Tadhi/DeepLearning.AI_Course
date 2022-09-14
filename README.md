@@ -26,3 +26,10 @@
 
 
 
+
+## Improving Deep Neural Networks:
+
+* [Week 1](https://github.com/Tadhi/DeepLearning.AI_Specialization/tree/main/C2%20-%20Improving%20Deep%20Neural%20Network%20/Week1#)
+* [Week 2](https://github.com/Tadhi/DeepLearning.AI_Specialization/tree/main/C2%20-%20Improving%20Deep%20Neural%20Network%20/Week2#)
+* [Week 3](https://github.com/Tadhi/DeepLearning.AI_Specialization/tree/main/C2%20-%20Improving%20Deep%20Neural%20Network%20/Week3#)
+
