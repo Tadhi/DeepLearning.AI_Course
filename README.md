@@ -46,7 +46,7 @@
 
 
 
-##Sequence Models:
+## Sequence Models:
 * [Week 1](https://github.com/Tadhi/DeepLearning.AI_Specialization/tree/main/%20C5%20-%20Sequence%20Models%20/Week1#)
 * [Week 2](https://github.com/Tadhi/DeepLearning.AI_Specialization/tree/main/%20C5%20-%20Sequence%20Models%20/Week2#)
 * [Week 3](https://github.com/Tadhi/DeepLearning.AI_Specialization/tree/main/%20C5%20-%20Sequence%20Models%20/Week3#)
