@@ -25,3 +25,6 @@
 > Week 4
 
 
+[Week 1](https://github.com/Tadhi/DeepLearning.AI_Specialization/tree/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learningm/Week1#)
+
+
