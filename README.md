@@ -20,9 +20,9 @@
 ##  Neural Networks and Deep Learning Course: 
 
 * [Week 1](https://github.com/Tadhi/DeepLearning.AI_Specialization/tree/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learningm/Week1#)
- * Week 2
- * Week 3
-* Week 4
+ * [Week 2] (https://github.com/Tadhi/DeepLearning.AI_Specialization/tree/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learningm/Week2#)
+ * [Week 3] (https://github.com/Tadhi/DeepLearning.AI_Specialization/tree/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learningm/Week3#)
+* [Week 4] (https://github.com/Tadhi/DeepLearning.AI_Specialization/tree/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learningm/Week4#)
 
 
 
